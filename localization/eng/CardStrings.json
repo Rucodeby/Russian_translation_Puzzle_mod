@@ -1,0 +1,46 @@
+{
+  "puzzleMod:SlaverStrike": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "puzzleMod:SlaverBlock": {
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "puzzleMod:SmallSlap": {
+    "NAME": "Слабый шлепок",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "puzzleMod:MediumSlap": {
+    "NAME": "Умеренный шлепок",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "puzzleMod:BigSlap": {
+    "NAME": "Сильный шлепок",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "puzzleMod:SmallShield": {
+    "NAME": "Малый щит",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "puzzleMod:MediumShield": {
+    "NAME": "Средний щит",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "puzzleMod:BigShield": {
+    "NAME": "Большой щит",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "puzzleMod:SmallBuff": {
+    "NAME": "Надуться",
+    "DESCRIPTION": "Даёт !M! Силы."
+  },
+  "puzzleMod:MediumBuff": {
+    "NAME": "Раздуваться",
+    "DESCRIPTION": "Даёт !M! Силы."
+  },
+  "puzzleMod:BigBuff": {
+    "NAME": "Раздуться",
+    "DESCRIPTION": "Даёт !M! Силы."
+  }
+}
